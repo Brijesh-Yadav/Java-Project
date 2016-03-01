@@ -4,6 +4,8 @@ public class DuplicateNumber {
 	
 	public static void main(String []args){
 		
+		System.out.println("Test 1");
+		
 		int [] array = {12,34,10,12,34,15};
 		
 		for(int i=0; i<array.length; i++){
